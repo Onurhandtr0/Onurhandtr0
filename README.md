@@ -20,5 +20,5 @@ Hi , I’m Onur 👨🏻‍💻
 <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurhandtr0&show_icons=true" alt="onurhan-demir" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferhatmetin34" alt="ferhatmetin34" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onurhandtr0" alt="onurhandtr0" /> </p>
 
