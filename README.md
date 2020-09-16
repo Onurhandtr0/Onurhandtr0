@@ -21,6 +21,7 @@ You can speak with me in 3 different language: ***🇬🇧English,*** ***🇩�
 </p>
 
 <br>
+<br>
 
 ![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg)
 ![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/datascience.svg)
