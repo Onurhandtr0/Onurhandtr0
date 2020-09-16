@@ -15,13 +15,12 @@ You can speak with me in 3 different language: ***🇬🇧English,*** ***🇩�
 <a href="https://twitter.com/Onur38969732">
   <img align="left" alt="onurhandtr0" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://t.me/theiskaa">
-  <img align="left" alt="onurhandtr0" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 <a href="mailto:st.onurhandtr@gmail.com?subject=test%20subject&body=test%20body">
   <img align="left" alt="onurhandtr0" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </p>
+
+<br>
 
 ![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg)
 ![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/datascience.svg)
