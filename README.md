@@ -31,6 +31,7 @@ You can speak with me in 3 different language: ***🇬🇧English,*** ***🇩�
 <img src="https://img.shields.io/badge/flutter-%230095D5.svg?&style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://camo.githubusercontent.com/7d45717e71c8130c598158129539b6823d839015/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/mongodb-%230095D5.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurhandtr0&show_icons=true" alt="onurhan-demir" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurhandtr0" alt="onurhandtr0" /> </p>
