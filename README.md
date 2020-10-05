@@ -5,7 +5,7 @@ I'm Onurhan Demir, live in **Turkey**. I'm a twelfth grade student in school.
 I’m currently learning **Kotlin** | Mobile Development. <br/>
 You can speak with me in 3 different language: ***🇬🇧English,*** ***🇩🇪German,*** and ***🇹🇷Turkish.***
 
-### Conect with me:
+### Contact with me:
 <a href="https://instagram.com/onurhandtr0/">
   <img align="left" alt="onurhandtr0" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
