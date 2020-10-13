@@ -24,7 +24,7 @@ You can speak with me in 3 different language: ***🇬🇧English,*** ***🇩�
 <br>
 
 ### Interests
-![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/gamedev.svg)
+![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg)
 ![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg)
 <br>
 
