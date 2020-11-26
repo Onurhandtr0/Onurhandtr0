@@ -2,7 +2,7 @@
 Hi , I’m Onur 👨🏻‍💻
 
 I'm Onurhan Demir, live in **Turkey**. I'm a twelfth grade student in school.   
-I’m currently learning **C#** | Game Development. <br/>
+I’m currently learning **C#** | Web Desigin & Development. <br/>
 You can speak with me in 3 different language: ***🇬🇧English,*** ***🇩🇪German,*** and ***🇹🇷Turkish.***
 
 ### Contact with me:
