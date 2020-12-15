@@ -9,7 +9,7 @@ You can speak with me in 2 different language: ***🇬🇧English,***  and ***�
 <a href="https://www.instagram.com/onurhandtr0/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="onurhandtr0"/></a>
 <a href="https://www.facebook.com/onurhan.demir.180/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook%20-%230077B5.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="onurhandtr0"/></a> 
 <a href="https://twitter.com/Onurhandtr1" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="onurhandtr0"/></a>
-<a href="https://www.linkedin.com/in/onurhan-demir-a682b41a6/" target="blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="onurhandtr0"/></a>
+<a href="https://www.linkedin.com/in/onurhan-demir-a682b41a6/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="onurhandtr0"/></a>
 <a href="mailto:onurhandtr@gmail.com?subject=test%20subject&body=test%20body" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail%20-%23323330.svg?&style=for-the-badge&logo=Gmail&logoColor=red" alt="onurhandtr0"/></a>
 </p>
 
