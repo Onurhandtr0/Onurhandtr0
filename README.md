@@ -17,7 +17,7 @@ You can speak with me in 2 different language: ***🇬🇧English,***  and ***�
 <br>
 
 ### Interests
-<a href="https://www.w3schools.com/html/" target="blank"><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-thebadge&logo=typescript&logoColor=white" alt="onurhandtr0"/</a>
+<a href="https://www.w3schools.com/html/" target="blank"><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-thebadge&logo=typescript&logoColor=white" alt="onurhandtr0"/></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="onurhandtr0"/></a>
 <a href="https://tailwindcss.com/" target="blank"><img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="onurhandtr0"/></a>
 <a href="https://sass-lang.com/" target="blank"><img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white" alt="onurhandtr0"/></a>
