@@ -27,8 +27,7 @@ You can speak with me in 2 different language: ***🇬🇧English,***  and ***�
 <a href="https://vuejs.org/" target="blank"><img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="onurhandtr0"/></a>
 <a href="https://angular.io/" target="blank"><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="onurhandtr0"/></a>
 <a href="https://angularjs.org/" target="blank"><img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white" alt="onurhandtr0"/></a>
-
-<a href="https://angularjs.org/" target="blank"><img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" alt="onurhandtr0"/></a>
+<a href="https://webpack.js.org/" target="blank"><img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" alt="onurhandtr0"/></a>
 <a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://img.shields.io/badge/vs code%20-%2300599C.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="onurhandtr0"/></a> 
 <a href="https://www.adobe.com/tr/products/xd.html" target="blank"><img align="center" src="https://img.shields.io/badge/Adobe xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="onurhandtr0"/></a>
 <a href="https://www.adobe.com/tr/products/xd.html" target="blank"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="onurhandtr0"/></a> 
