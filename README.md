@@ -17,12 +17,12 @@ You can speak with me in 2 different language: ***🇬🇧English,***  and ***�
 <br>
 
 ### Interests
-<a href="https://www.w3schools.com/html/" target="blank"><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-thebadge&logo=typescript&logoColor=white" alt="onurhandtr0"/></a>
+<a href="https://www.w3schools.com/html/" target="blank"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="onurhandtr0"/></a>
 <a href="https://www.w3schools.com/css/" target="blank"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="onurhandtr0"/></a>
 <a href="https://tailwindcss.com/" target="blank"><img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="onurhandtr0"/></a>
 <a href="https://sass-lang.com/" target="blank"><img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white" alt="onurhandtr0"/></a>
 <a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/" target="blank"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="onurhandtr0"/></a>
-<a href="https://www.w3schools.com/js/" target="blank"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="onurhandtr0"/</a>
+<a href="https://www.w3schools.com/js/" target="blank"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="onurhandtr0"/></a>
 <a href="https://jquery.com/" target="blank"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="onurhandtr0"/></a>
 <a href="https://vuejs.org/" target="blank"><img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="onurhandtr0"/></a>
 <a href="https://angular.io/" target="blank"><img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white" alt="onurhandtr0"/></a>
@@ -34,5 +34,5 @@ You can speak with me in 2 different language: ***🇬🇧English,***  and ***�
 <a href="https://www.adobe.com/tr/products/xd.html" target="blank"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="onurhandtr0"/></a> 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurhandtr0&show_icons=true" alt="onurhan-demir" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onurhandtr0" alt="onurhandtr0" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onurhandtr0" alt="onurhandtr0" /></p>
 
