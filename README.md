@@ -2,37 +2,37 @@
 Hi , I’m Onur 👨🏻‍💻
 
 I'm Onurhan Demir, live in **Turkey**. I'm a twelfth grade student in school.   
-I’m currently learning **C#** | Web Desigin & Development. <br/>
-You can speak with me in 3 different language: ***🇬🇧English,*** ***🇩🇪German,*** and ***🇹🇷Turkish.***
+I’m currently learning **Javascript** | Web Design & Development. <br/>
+You can speak with me in 2 different language: ***🇬🇧English,***  and ***🇹🇷Turkish.***
 
 ### Contact with me:
-<a href="https://instagram.com/onurhandtr0/">
-  <img align="left" alt="onurhandtr0" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/onurhan.demir.180/">
-  <img align="left" alt="onurhandtr0" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://twitter.com/Onur38969732">
-  <img align="left" alt="onurhandtr0" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:st.onurhandtr@gmail.com?subject=test%20subject&body=test%20body">
-  <img align="left" alt="onurhandtr0" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+<a href="https://www.instagram.com/onurhandtr0/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" alt="onurhandtr0"/></a>
+<a href="https://www.facebook.com/onurhan.demir.180/" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook%20-%230077B5.svg?&style=for-the-badge&logo=Facebook&logoColor=white" alt="onurhandtr0"/></a> 
+<a href="https://twitter.com/Onurhandtr1" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="onurhandtr0"/></a>
+<a href="https://www.linkedin.com/in/onurhan-demir-a682b41a6/" target="blank"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="onurhandtr0"/></a>
+<a href="mailto:onurhandtr@gmail.com?subject=test%20subject&body=test%20body" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail%20-%23323330.svg?&style=for-the-badge&logo=Gmail&logoColor=red" alt="onurhandtr0"/></a>
 </p>
 
 <br>
 <br>
 
 ### Interests
-![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/mobile.svg)
-![](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/web.svg)
-<br>
+<a href="https://www.w3schools.com/html/" target="blank"><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-thebadge&logo=typescript&logoColor=white" alt="onurhandtr0"/</a>
+<a href="https://www.w3schools.com/css/" target="blank"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="onurhandtr0"/></a>
+<a href="https://tailwindcss.com/" target="blank"><img src="https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="onurhandtr0"/></a>
+<a href="https://sass-lang.com/" target="blank"><img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white" alt="onurhandtr0"/></a>
+<a href="https://getbootstrap.com/docs/4.5/getting-started/introduction/" target="blank"><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" alt="onurhandtr0"/></a>
+<a href="https://www.w3schools.com/js/" target="blank"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="onurhandtr0"/</a>
+<a href="https://jquery.com/" target="blank"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="onurhandtr0"/></a>
+<a href="https://vuejs.org/" target="blank"><img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="onurhandtr0"/></a>
+<a href="https://angular.io/" target="blank"><img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white" alt="onurhandtr0"/></a>
+<a href="https://angularjs.org/" target="blank"><img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white alt="onurhandtr0"/></a>
 
-<img src="https://img.shields.io/badge/flutter-%230095D5.svg?&style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://camo.githubusercontent.com/7d45717e71c8130c598158129539b6823d839015/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2532302d2532333134333534432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/mongodb-%230095D5.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white">
+<a href="https://angularjs.org/" target="blank"><img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" alt="onurhandtr0"/></a>
+<a href="https://code.visualstudio.com" target="blank"><img align="center" src="https://img.shields.io/badge/vs code%20-%2300599C.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="onurhandtr0"/></a> 
+<a href="https://www.adobe.com/tr/products/xd.html" target="blank"><img align="center" src="https://img.shields.io/badge/Adobe xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" alt="onurhandtr0"/></a>
+<a href="https://www.adobe.com/tr/products/xd.html" target="blank"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="onurhandtr0"/></a> 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=onurhandtr0&show_icons=true" alt="onurhan-demir" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onurhandtr0" alt="onurhandtr0" /> </p>
 
