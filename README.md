@@ -25,7 +25,7 @@ You can speak with me in 2 different language: ***🇬🇧English,***  and ***�
 <a href="https://www.w3schools.com/js/" target="blank"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="onurhandtr0"/></a>
 <a href="https://jquery.com/" target="blank"><img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white" alt="onurhandtr0"/></a>
 <a href="https://vuejs.org/" target="blank"><img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" alt="onurhandtr0"/></a>
-<a href="https://angular.io/" target="blank"><img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white" alt="onurhandtr0"/></a>
+<a href="https://angular.io/" target="blank"><img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="onurhandtr0"/></a>
 <a href="https://angularjs.org/" target="blank"><img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white alt="onurhandtr0"/></a>
 
 <a href="https://angularjs.org/" target="blank"><img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" alt="onurhandtr0"/></a>
